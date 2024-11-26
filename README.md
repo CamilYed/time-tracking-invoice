@@ -46,3 +46,7 @@ Pobieranie świąt: Skrypt automatycznie pobiera dane o świętach w Polsce z AP
 Tworzenie raportu: Na podstawie danych o świętach i godzinach pracy generuje raport w Excelu.
 Obliczenia: Oblicza sumę godzin pracy i kwotę na podstawie stawki godzinowej.
 Skrypt automatycznie wypełnia dni tygodnia oraz oznacza weekendy i święta. Zawiera również podsumowanie godzin oraz kwoty na końcu.
+
+
+### 3. Przykładowy wynik
+![Wynik koncowy](example.png)
